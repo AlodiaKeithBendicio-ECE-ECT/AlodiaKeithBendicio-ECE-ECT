@@ -8,10 +8,10 @@ Licensed <b>Electronics Engineer</b> and <b>Electronics Technician</b> with over
 ---
 
 ## 🧰 Tools & Skills
-- *Data Analysis:* Excel, Power Query, SQL, Python (Pandas)
-- *Data Visualization:* Power BI, Google Looker, DOMO
-- *Automation:* Python scripting
-- *Data Management:* Cleaning, transformation, and performance tracking
+- **Data Analysis:** Excel, Power Query, SQL, Python (Pandas)
+- **Data Visualization:** Power BI, Google Looker, DOMO
+- **Automation:** Python scripting
+- **Data Management:** Cleaning, transforming, and performance tracking
 
 ---
 
