@@ -16,10 +16,10 @@ Licensed <b>Electronics Engineer</b> and <b>Electronics Technician</b> with over
 ---
 
 ## 📊 Featured Work
-🧩 Here are the links of my notable works:
+🧩 Here are the repositories of my notable works:
 
 **Reports**
-- Excel
+- [Microsoft Excel](https://github.com/AlodiaKeithBendicio-ECE-ECT/MS-Excel)
   
 **Code Scripts**
 - Python
