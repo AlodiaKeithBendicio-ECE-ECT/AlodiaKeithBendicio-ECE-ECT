@@ -22,10 +22,10 @@ Licensed <b>Electronics Engineer</b> and <b>Electronics Technician</b> with over
 - [Microsoft Excel](https://github.com/AlodiaKeithBendicio-ECE-ECT/MS-Excel)
   
 **Code Scripts**
-- Python
-- Microsoft Power Query
-- SQL
-- R
+- [Python](https://github.com/AlodiaKeithBendicio-ECE-ECT/Python)
+- [Microsoft Power Query](https://github.com/AlodiaKeithBendicio-ECE-ECT/MS-Power-Query---M-Code)
+- [SQL](https://github.com/AlodiaKeithBendicio-ECE-ECT/SQL)
+- [R](https://github.com/AlodiaKeithBendicio-ECE-ECT/R)
   
 **Dashboards**
 - Google Looker
