@@ -16,17 +16,26 @@ Licensed <b>Electronics Engineer</b> and <b>Electronics Technician</b> with over
 ---
 
 ## 📊 Featured Work
-🧩 More projects coming soon!  
-For now, here are a few types of work I focus on:
-- Automating recurring reports with Python and Power Query  
-- Building dynamic dashboards in Power BI, Looker, and DOMO  
-- Designing data workflows that improve reporting efficiency  
+🧩 Here are the links of my notable works:
+**Reports**
+- Excel
+  
+**Code Scripts**
+- Python
+- Microsoft Power Query
+- SQL
+- R
+  
+**Dashboards**
+- Google Looker
+- Microsoft Power BI
+ 
 
 ---
 
 ## 🌐 Connect With Me
-- *LinkedIn:* [linkedin.com/in/joshua-almari](https://www.linkedin.com/in/joshua-almari-675731313/)
-- *Email:* [joshuaalmari42@gmail.com](mailto:joshuaalmari42@gmail.com)
+- *LinkedIn:* [linkedin.com/in/alodia-bendicio](https://www.linkedin.com/in/alodia-keith-bendicio-ece-ect-9ba244257/)
+- *Email:* [diabendicio@gmail.com](mailto:diabendicio@gmail.com)
 
 ---
 
