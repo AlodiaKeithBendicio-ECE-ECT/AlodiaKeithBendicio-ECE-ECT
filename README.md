@@ -1,7 +1,6 @@
 # 👋 Good Day, I am Engr. Alodia Keith C. Bendicio, ECT!
 <p align = “justify”>
-
-Licensed ***Electronics Engineer*** and ***Electronics Technician*** with over a year of experience as a ***Reports Analyst*** in a U.S. Healthcare BPO company. Skilled in automating data workflows using ***Python*** for data extraction and exportation from various online sources. Proficient in ***Microsoft Power Query*** for data transformation, manipulation, and cleaning to ensure accuracy and efficiency in reporting processes. Experienced in building and managing dashboards using ***Google Looker, Microsoft Power BI, and DOMO Business Intelligence*** tools. Adept in ***advanced Microsoft Excel*** functions, including formulas, pivot tables, and lookups. Highly analytical, detail-oriented, and committed to delivering data-driven insights that support business decision-making and process improvement.
+Licensed <b>Electronics Engineer</b> and <b>Electronics Technician</b> with over a year of experience as a <b>Reports Analyst</b> in a U.S. Healthcare BPO company. Skilled in automating data workflows using <b>Python</b> for data extraction and exportation from various online sources. Proficient in <b>Microsoft Power Query</b> for data transformation, manipulation, and cleaning to ensure accuracy and efficiency in reporting processes. Experienced in building and managing dashboards using <b>Google Looker, Microsoft Power BI, and DOMO Business Intelligence</b> tools. Adept in <b>advanced Microsoft Excel</b> functions, including formulas, pivot tables, and lookups. Highly analytical, detail-oriented, and committed to delivering data-driven insights that support business decision-making and process improvement.
 </p>
 
 ---
