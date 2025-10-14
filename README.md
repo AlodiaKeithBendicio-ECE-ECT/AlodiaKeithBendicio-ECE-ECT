@@ -35,8 +35,8 @@ Licensed <b>Electronics Engineer</b> and <b>Electronics Technician</b> with over
 ---
 
 ## 🌐 Connect With Me
-- *LinkedIn:* [linkedin.com/in/alodia-bendicio](https://www.linkedin.com/in/alodia-keith-bendicio-ece-ect-9ba244257/)
-- *Email:* [diabendicio@gmail.com](mailto:diabendicio@gmail.com)
+- ***LinkedIn:*** [linkedin.com/in/alodia-bendicio](https://www.linkedin.com/in/alodia-keith-bendicio-ece-ect-9ba244257/)
+- ***Email:*** [diabendicio@gmail.com](mailto:diabendicio@gmail.com)
 
 ---
 
