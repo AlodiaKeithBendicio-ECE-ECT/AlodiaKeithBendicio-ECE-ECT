@@ -29,7 +29,7 @@ Licensed <b>Electronics Engineer</b> and <b>Electronics Technician</b> with over
   
 **Dashboards**
 - Google Looker
-- [Microsoft Power BI](https://github.com/AlodiaKeithBendicio-ECE-ECT/Microsoft-Power-BI/blob/main/README.md)//(https://carrd.co/dashboard/3021172709402950/build)
+- [Microsoft Power BI](https://github.com/AlodiaKeithBendicio-ECE-ECT/Microsoft-Power-BI/blob/main/README.md)<!--(https://carrd.co/dashboard/3021172709402950/build)-->
  
 
 ---
