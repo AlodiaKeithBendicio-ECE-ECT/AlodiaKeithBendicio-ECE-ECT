@@ -31,6 +31,10 @@ Licensed <b>Electronics Engineer</b> and <b>Electronics Technician</b> with over
 - Google Looker
 - [Microsoft Power BI](https://github.com/AlodiaKeithBendicio-ECE-ECT/Microsoft-Power-BI/blob/main/README.md)<!--(https://carrd.co/dashboard/3021172709402950/build)-->
  
+---
+
+## 🏅 Certifications and Badges
+[Credly](https://www.credly.com/users/alodia-keith-bendicio)
 
 ---
 
