@@ -28,7 +28,7 @@ Licensed <b>Electronics Engineer</b> and <b>Electronics Technician</b> with over
 - [R](https://github.com/AlodiaKeithBendicio-ECE-ECT/R)
   
 **Dashboards**
-- Google Looker
+- [Google Looker](https://github.com/AlodiaKeithBendicio-ECE-ECT/JunoDerm-Dashboard)
 - [Microsoft Power BI](https://github.com/AlodiaKeithBendicio-ECE-ECT/Microsoft-Power-BI/blob/main/README.md)<!--(https://carrd.co/dashboard/3021172709402950/build)-->
  
 ---
