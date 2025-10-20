@@ -2,15 +2,15 @@
 
 <hr>
 <p align = “justify”>
-Licensed <b>Electronics Engineer</b> and <b>Electronics Technician</b> with over a year of experience as a <b>Reports Analyst</b> in a U.S. Healthcare BPO company. Skilled in automating data workflows using <b>Python</b> for data extraction and exportation from various online sources. Proficient in <b>Microsoft Power Query</b> for data transformation, manipulation, and cleaning to ensure accuracy and efficiency in reporting processes. Experienced in building and managing dashboards using <b>Google Looker, Microsoft Power BI, and DOMO Business Intelligence</b> tools. Adept in <b>advanced Microsoft Excel</b> functions, including formulas, conditional formatting, pivot tables, and lookups. Highly analytical, detail-oriented, and committed to delivering data-driven insights that support business decision-making and process improvement. 
+Licensed <b>Electronics Engineer</b> and <b>Electronics Technician</b> with over a year of experience as a <b>Reports Analyst</b> in a U.S. Healthcare BPO company. Skilled in automating data workflows using <b>Python</b> for data extraction and exportation from various online sources. Proficient in <b>Microsoft Power Query</b> for data transformation, manipulation, and cleaning to ensure accuracy and efficiency in reporting processes. Experienced in building and managing dashboards using <b>Google Looker, Microsoft Power BI, and DOMO Business Intelligence</b> tools, , creating <b>SQL scripts</b> for calculated fields. Adept in <b>advanced Microsoft Excel</b> functions, including formulas, conditional formatting, pivot tables, indexmatch and lookups. Highly analytical, detail-oriented, and committed to delivering data-driven insights that support business decision-making and process improvement. 
 </p>
 
 ---
 
 ## 🧰 Tools & Skills
 - **Data Analysis:** MS Excel, MS Power Query, SQL, Python (Pandas)
-- **Data Visualization:** Power BI, Google Looker, DOMO
-- **Automation:** Python scripting (Selenium)
+- **Data Visualization:** Power BI, Google Looker, DOMO (SQL scripts)
+- **Automation:** Python scripting (Selenium)), MS Power Query
 - **Data Management:** Cleaning, transforming, and performance tracking
 
 ---
